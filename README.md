@@ -1,4 +1,4 @@
-# Alpha Attack — Cuppa CMS LFI Writeup
+# Alpha Attack — Cuppa CMS LFI
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) [![Lab: Controlled](https://img.shields.io/badge/Lab-Controlled-green.svg)](#)
 
