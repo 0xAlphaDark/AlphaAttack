@@ -328,7 +328,6 @@ This work was conducted in an isolated lab for educational purposes only. Do not
 
 ## Contributing
 
-Contributions are welcome. Please open issues or pull requests for corrections, additional notes, or better remediation strategies. Before submitting: ensure no sensitive data (passwords, keys, hostnames) are included in your changes.
 
 ---
 
