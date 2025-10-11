@@ -1,8 +1,8 @@
 ### **Penetration Test Report: Cuppa CMS LFI to Root Compromise**
 
-**Report Date:** [Current Date]
+**Report Date:** 2025/09/23
 **Target:** 192.168.56.101 (Internal Lab Environment)
-**Author:** [Your Name/Handle]
+**Author:** AlphaTeam
 
 ---
 
