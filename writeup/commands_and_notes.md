@@ -165,12 +165,5 @@ Redaction checklist (manual):
 * Sanitize all outputs before publishing.
 * When in doubt about whether something is sensitive, remove it or consult the team lead.
 
----
 
-If you want, I can now:
-
-* Convert this cheatsheet into a downloadable `commands_and_notes.md` file in the repo (done) and also produce a `redact.sh` script that attempts common redactions automatically.
-* Or generate a one‑page PDF cheatsheet for printing.
-
-Which of these would you like next?
 
